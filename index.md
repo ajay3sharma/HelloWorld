@@ -1,3 +1,16 @@
+# This is my heading post
+
+How to over come this ***<u>typoora test issue</u>***
+
+## This is my heading level 2
+
+This looks fine.
+
+### This is headling levle 3
+
+Level 3
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ajay3sharma/HelloWorld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,16 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# This is my heading post
-
-How to over come this ***<u>typoora test issue</u>***
-
-## This is my heading level 2
-
-This looks fine.
-
-### This is headling levle 3
-
-Level 3
-
+#
 
